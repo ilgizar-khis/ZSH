@@ -105,8 +105,9 @@ source $ZSH/oh-my-zsh.sh
 # - $ZSH_CUSTOM/macos.zsh
 # For a full list of active aliases, run `alias`.
 
-alias reboot="sudo reboot"
-alias dctl="sudo dinitctl"
+alias ls="eza -l --git --icons"
+alias find="fs"
+alias cat="bat"
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
