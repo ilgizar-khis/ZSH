@@ -105,8 +105,8 @@ source $ZSH/oh-my-zsh.sh
 # - $ZSH_CUSTOM/macos.zsh
 # For a full list of active aliases, run `alias`.
 
-alias ls="eza -l --git --icons"
-alias find="fs"
+alias ls="eza -l --git --icons always"
+alias find="fd"
 alias cat="bat"
 
 # Example aliases
