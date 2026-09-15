@@ -1,1 +1,5 @@
 export PATH="$PATH:$HOME/.local/bin"
+export DRIVE_C="$HOME/.var/app/ru.linux_gaming.PortProton/prefixes/DEFAULT/drive_c"
+export THEMES="$HOME/.local/share/themes"
+export ICONS="$HOME/.local/share/ICONS"
+export FONTS="$HOME/.local/share/fonts"
